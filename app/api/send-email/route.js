@@ -2,7 +2,7 @@ import { Resend } from 'resend';
 import { rateLimit } from '@/data/rateLimit';
 import { headers } from 'next/headers';
 
-const resend = new Resend(process.env.RESEND_API_KEY);
+const resend = new Resend(process.env.RESEND_API_KEY || 're_dummy_key');
 
 export async function POST(request) {
   const headersList = headers();
