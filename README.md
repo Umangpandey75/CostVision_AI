@@ -1,6 +1,6 @@
   <!-- ═══════════ ANIMATED HEADER ═══════════ -->
 
-# 🚀 CostVision AI
+# 🚀 CostVision Ai
 
 <div align="center">
  <!-- ═══════════ TYPING ANIMATION ═══════════ -->
