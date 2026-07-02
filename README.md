@@ -3,7 +3,7 @@
 # 🚀 CostVision AI
 
 <div align="center">
-<!-- ═══════════ TYPING ANIMATION ═══════════ -->
+ <!-- ═══════════ TYPING ANIMATION ═══════════ -->
 
 <br/>
 
